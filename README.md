@@ -1,5 +1,5 @@
 # Download-YouTube-videos.
-#YouTueb videosu indirin.
+# YouTube videosu indirin.
 
 Python project for directly downloading high resolution videos from YouTube.
 
